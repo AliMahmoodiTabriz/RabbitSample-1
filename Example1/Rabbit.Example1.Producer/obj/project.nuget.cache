@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "A8P/ZNq1v3Dbxhj+3ZZsEKtc29Wfw262S+yDmmtVxDPCjNLc6L4n2q6e0B7f3Wkco5mDaZU2BPn7i+yu7glpgQ==",
+  "success": true,
+  "projectFilePath": "/opt/sampel/Example1/Rabbit.Example1.Producer/Rabbit.Example1.Producer.csproj",
+  "expectedPackageFiles": [
+    "/home/ali/.nuget/packages/bogus/33.0.2/bogus.33.0.2.nupkg.sha512",
+    "/home/ali/.nuget/packages/pastel/2.1.0/pastel.2.1.0.nupkg.sha512",
+    "/home/ali/.nuget/packages/rabbitmq.client/6.2.1/rabbitmq.client.6.2.1.nupkg.sha512",
+    "/home/ali/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/ali/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FiV2GtEfwFbR8KZyhYxK/wGZecsy8wvRksiH34eagwyHHD4teESMTJ89MHxxJdcc4Lrlq4jBJ6zPkl8np02NzQ==",
+  "success": true,
+  "projectFilePath": "/opt/sampel/Common/Rabbit.Common.csproj",
+  "expectedPackageFiles": [
+    "/home/ali/.nuget/packages/bogus/33.0.2/bogus.33.0.2.nupkg.sha512",
+    "/home/ali/.nuget/packages/pastel/2.1.0/pastel.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
